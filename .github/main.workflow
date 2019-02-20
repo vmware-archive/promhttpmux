@@ -1,4 +1,4 @@
-workflow "Build" {
+workflow "CI" {
   on = "push"
   resolves = ["Test"]
 }
