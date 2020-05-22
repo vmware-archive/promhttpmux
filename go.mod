@@ -1,5 +1,7 @@
 module github.com/bitnami-labs/promhttpmux
 
+go 1.14
+
 require (
 	github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 // indirect
 	github.com/felixge/httpsnoop v1.0.0
